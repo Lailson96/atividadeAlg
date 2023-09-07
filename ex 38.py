@@ -8,7 +8,7 @@ imprima "\n"; """
 
 realnum= float (input('\nentre com um numero real: '))
 
-print(f"\nentre com um numero com ponto:{realnum}")
+print(f"\nNumero:{realnum}")
 
 terca= (realnum/3)
 
