@@ -10,8 +10,8 @@ media <- ( notal + nota2)/2;
 imprima "\nmedia ", media,
 imprima "\n";  """
 
-Nota1= int (input('\ndigite la nota:'))
-Nota2= int (input('\ndigite 2a nota:'))
+Nota1= int (input('\ndigite a primeira nota:'))
+Nota2= int (input('\ndigite a segunda nota:'))
 
 print(f'\nNota1: {Nota1}')
 print(f'\nNota2: {Nota2}')

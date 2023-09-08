@@ -1,7 +1,7 @@
 
- val1= int (input('\nentre com o dividendo:'))
+val1= int (input('\nentre com o dividendo:'))
 
- val2= int (input('\nentre com o divisor:'))
+val2= int (input('\nentre com o divisor:'))
 
 print("\n\n\n")
 
