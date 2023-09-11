@@ -10,7 +10,8 @@ imprima "\ndecimal: ", num / denom;
 imprima "\n";
 fimprog """
 
-num = int(input('\nDigite um numerador: '))
-denom = int(input('\nDigite denominador: '))
+num = int (input('\nDigite um numerador: '))
+denom = int (input('\nDigite denominador: '))
+
 print(f'\nDecimal: {num / denom}')
 print('\n')

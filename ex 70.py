@@ -10,7 +10,8 @@ imprima "\nO valor da conta com a gorjeta sera: II, formatar(cgorj,2);
 imprima "\n";
 fi mprog """
 
-cres = float(input('\nEntre com o valor da conta: '))
+cres = float (input('\nEntre com o valor da conta: '))
 cgorj = cres * 1.1
+
 print(f'\nO valor da conta com a gorjeta será: {cgorj:.2f}')
 print('\n')

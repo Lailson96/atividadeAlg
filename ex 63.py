@@ -23,5 +23,6 @@ pd = float(input('\nPercentual de desconto: '))
 sb = na * vha
 td = (pd / 100) * sb
 sl = sb - td
+
 print(f'\nSalário líquido: {sl}')
 print('\n')
