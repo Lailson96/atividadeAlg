@@ -6,5 +6,5 @@ imprima "\n"; """
 
 produto = int(28*43)
 
-print(f'O produto entre os dois e:{produto}')
+print(f'\nO produto entre os dois e:{produto}\n')
 
